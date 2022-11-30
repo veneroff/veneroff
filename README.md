@@ -2,7 +2,7 @@
 - 👀 I’m interested in cars, coding, watching movies and spending beautiful time enjoying the life.
 - 🌱 I’m currently learning PhP, JavaScript, HTML, CSS, Python
 - 💞️ I’m looking to collaborate on every project you would think, that I can help :)
-- 📫 You can reach me via Email, and any of messengers, or directly by phone. (+420 608 561 734)
+- 📫 You can reach me via Email, and any of messengers, or directly by phone. 
 - Have a nice day!!!!!
 
 <!---
